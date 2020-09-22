@@ -6,8 +6,7 @@
 
 <br/>
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=fuwwy&show_icons=true&theme=dracula&count_private=true&" alt="fuwwy" />
-<h5>Why doesn't this thing count private repos and orgs 😢</h5>
+<img src="https://github-readme-stats.vercel.app/api?username=fuwwy&show_icons=true&theme=dracula&count_private=true" alt="fuwwy" />
 </a>
 <br/>
 
