@@ -7,6 +7,7 @@
 <br/>
 <a>
 <img src="https://github-readme-stats.vercel.app/api?username=fuwwy&show_icons=true&theme=dracula&count_private=true" alt="fuwwy" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Checkium&layout=compact&theme=dracula" />
 </a>
 <br/>
 
