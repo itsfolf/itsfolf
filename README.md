@@ -3,4 +3,6 @@
 
 
 #### Some stats!
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <a src="https://discord.com/users/1090088995976925305"><img src="https://lanyard-profile-readme.vercel.app/api/1090088995976925305"/></a></td> 
