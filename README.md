@@ -4,7 +4,7 @@
 
 #### Some stats!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs-blue)
 
 **I'm a Night 🦉** 
 
@@ -31,7 +31,11 @@ Sunday                   280 commits         █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr                ████████████████████████░   95.54 % 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -47,6 +51,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2023 00:42:46 UTC
+ Last Updated on 22/09/2023 00:42:59 UTC
 <!--END_SECTION:waka-->
 <a src="https://discord.com/users/1090088995976925305"><img src="https://lanyard-profile-readme.vercel.app/api/1090088995976925305"/></a></td> 
