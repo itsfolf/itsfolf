@@ -31,7 +31,7 @@ Sunday                   280 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -47,6 +47,6 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2023 00:46:35 UTC
+ Last Updated on 02/11/2023 00:43:40 UTC
 <!--END_SECTION:waka-->
 <a src="https://discord.com/users/1090088995976925305"><img src="https://lanyard-profile-readme.vercel.app/api/1090088995976925305"/></a></td> 
