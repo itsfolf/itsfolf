@@ -31,9 +31,7 @@ Sunday                   512 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     1 min               █████████████████████░░░░   85.58 % 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -49,7 +47,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2024 00:45:25 UTC
+ Last Updated on 28/04/2024 00:50:02 UTC
 <!--END_SECTION:waka-->
 <a src="https://discord.com/users/1090088995976925305"><img src="https://lanyard-profile-readme.vercel.app/api/1090088995976925305"/></a></td> 
 <img src="https://hit.yhype.me/github/profile?user_id=9268058"/>
