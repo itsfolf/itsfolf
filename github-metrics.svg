@@ -2379,7 +2379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>okdargy/fxTikTok</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fix stale and unresponsive TikTok embeds for Discord with just s/i/n</div>
@@ -2426,7 +2426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apify/fingerprint-suite</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser fingerprinting tools for anonymizing your scrapers. Developed by Apify.</div>
@@ -2972,7 +2972,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 505k out of 138m users</span>
+                                    <span class="gh">ranked 505k out of 139m users</span>
                                 </div>
                                 <div class="text">Published 60 public repositories</div>
                             </div>
@@ -3059,7 +3059,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 180k out of 138m users</span>
+                                    <span class="gh">ranked 180k out of 139m users</span>
                                 </div>
                                 <div class="text">Followed by 67 users</div>
                             </div>
@@ -3438,7 +3438,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2024, 18:16:31 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2024, 19:23:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
