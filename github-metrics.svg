@@ -2369,7 +2369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WerWolv/ImHex</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</div>
@@ -3142,7 +3142,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 192k out of 212m repositories</span>
+                                    <span class="gh">ranked 192k out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 218 stars</div>
                             </div>
@@ -3286,7 +3286,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.21m out of 212m repositories</span>
+                                    <span class="gh">ranked 1.21m out of 211m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -3442,7 +3442,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2024, 02:22:54 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 03:34:24 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
