@@ -4,7 +4,7 @@
 
 #### Some stats!
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C288%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C288%20hrs%2044%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,7 +51,7 @@ Scala                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 00:56:14 UTC
+ Last Updated on 01/09/2024 01:05:00 UTC
 <!--END_SECTION:waka-->
 <a src="https://discord.com/users/1090088995976925305"><img src="https://lanyard-profile-readme.vercel.app/api/1090088995976925305"/></a></td> 
 <img src="https://hit.yhype.me/github/profile?user_id=9268058"/>
