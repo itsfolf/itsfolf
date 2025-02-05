@@ -2502,7 +2502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SaumonNet/proxmox-nixos</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]</div>
@@ -3453,7 +3453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2025, 15:23:28 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Feb 2025, 16:27:53 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
