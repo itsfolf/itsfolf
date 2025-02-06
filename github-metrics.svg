@@ -2413,7 +2413,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wzhudev/reverse-linear-sync-engine</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A reverse engineering of Linear's sync engine.</div>
@@ -3170,7 +3170,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 204k out of 233m repositories</span>
+                                    <span class="gh">ranked 204k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 221 stars</div>
                             </div>
@@ -3251,7 +3251,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.27m out of 233m repositories</span>
+                                    <span class="gh">ranked 1.27m out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 9 times</div>
                             </div>
@@ -3443,7 +3443,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 13:27:07 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 14:19:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
