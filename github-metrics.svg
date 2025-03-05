@@ -2359,7 +2359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rails/marcel</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Find the mime type of files, examining file, filename and declared type</div>
@@ -2518,7 +2518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>serokell/deploy-rs</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Feb 03 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple multi-profile Nix-flake deploy tool.</div>
@@ -3469,7 +3469,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2025, 10:08:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2025, 11:07:04 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
