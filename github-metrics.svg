@@ -2360,7 +2360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>watfoe/zealot</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Naive Rust implementation of the Signal Protocol for secure, end-to-end encrypted messaging, including X3DH (Extended Triple Diffie-Hellman) key agreement and the Double Ratchet algorithm for message encryption.</div>
@@ -2811,7 +2811,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2025, 16:08:42 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jul 2025, 17:09:38 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
