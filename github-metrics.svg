@@ -2350,7 +2350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>j-brn/nixos-vfio</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS modules to automate vfio setups</div>
@@ -2707,7 +2707,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2025, 19:06:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2025, 20:08:32 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
