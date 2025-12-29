@@ -2340,7 +2340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pocket-id/pocket-id</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.</div>
@@ -2393,7 +2393,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linuxmobile/kaku</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">革 | kaku - Elegant NixOS rice centered around the Niri tiling window manager. A minimalist, functional environment built with the philosophy of constant refinement and transformation. This dotfiles collection emphasizes aesthetic harmony and technical excellence through the declarative power of Nix flakes.</div>
@@ -2691,7 +2691,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2025, 05:15:17 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2025, 06:14:21 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
