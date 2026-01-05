@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oddlama/agenix-rekey</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity</div>
@@ -2697,7 +2697,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2026, 14:10:02 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2026, 15:09:41 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
