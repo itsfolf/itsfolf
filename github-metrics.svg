@@ -2363,7 +2363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>seaweedfs/seaweedfs</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SeaweedFS is a distributed storage system for object storage (S3), file systems, Iceberg table buckets, and Lance vector buckets, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</div>
@@ -2622,7 +2622,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Nov 2026, 17:15:49 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 21 Nov 2026, 22:58:08 (timezone Europe/London) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
